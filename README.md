@@ -116,8 +116,7 @@ This simple pattern saved me **~100K tokens daily** while keeping the architectu
 
 I regularly share insights on Python engineering, Multi-Agent architectures, and Quantitative Trading.
 
-- **𝕏 (Twitter):** [@YOUR_HANDLE](https://twitter.com/YOUR_HANDLE)
-- **Blog:** [YOUR_BLOG_URL](YOUR_BLOG_URL)
+- **𝕏 (Twitter):** [@eliSmith8gsr](https://twitter.com/eliSmith8gsr)
 
 ## License
 
